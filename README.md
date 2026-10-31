@@ -1,9 +1,6 @@
 ## 🎨 Figma Design
 [View the Portfolio Design in Figma](https://www.figma.com/design/rTf46yEfl8YkcKOSjaUxEZ/Untitled?node-id=0-1&t=teYPMjT6Bn9W7BN4-1))
 
-
-#A modern and professional personal portfolio website design created using **Figma** to showcase personal information, technical skills, projects, services, and contact details.
-
 ## ✨ Design Sections
 
 - 🏠 Home – Introduction and hero section
